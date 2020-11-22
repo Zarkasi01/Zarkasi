@@ -1,4 +1,4 @@
-package com.example.myapplication;
+package simple.example.hewanpedia;
 
 import org.junit.Test;
 

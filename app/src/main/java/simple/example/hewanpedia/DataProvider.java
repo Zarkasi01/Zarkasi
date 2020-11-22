@@ -1,14 +1,14 @@
-package com.example.myapplication;
+package simple.example.hewanpedia;
 
 import android.content.Context;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import com.example.myapplication.model.Hewan;
-import com.example.myapplication.model.Anjing;
-import com.example.myapplication.model.Badak;
-import com.example.myapplication.model.Kucing;
+import simple.example.hewanpedia.model.Anjing;
+import simple.example.hewanpedia.model.Badak;
+import simple.example.hewanpedia.model.Hewan;
+import simple.example.hewanpedia.model.Kucing;
 
 public class DataProvider {
     private static List<Hewan> hewans = new ArrayList<>();

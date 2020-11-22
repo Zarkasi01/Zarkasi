@@ -1,4 +1,4 @@
-package com.example.myapplication.model;
+package simple.example.hewanpedia.model;
 
 public class Hewan {
     private String jenis;

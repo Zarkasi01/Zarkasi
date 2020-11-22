@@ -1,4 +1,4 @@
-package com.example.myapplication;
+package simple.example.hewanpedia;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -12,7 +12,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import java.util.List;
 
-import com.example.myapplication.model.Hewan;
+import simple.example.hewanpedia.model.Hewan;
 
 public class GaleriActivity extends AppCompatActivity {
 

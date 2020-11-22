@@ -1,4 +1,5 @@
-package com.example.myapplication.model;
+package simple.example.hewanpedia.model;
+
 
 public class Kucing extends Hewan {
 
